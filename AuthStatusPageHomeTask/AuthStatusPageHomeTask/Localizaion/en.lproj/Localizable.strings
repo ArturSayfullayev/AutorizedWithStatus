@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  AuthStatusPageHomeTask
+
+  Created by Artur on 07.02.2021.
+  
+*/
+
+"Greeting message" = "Welcome, dear ";
+"Default user" = "User!";
+"PlaceholderUsername" = "Enter your username";
+"PlaceholderPassword" = "Enter your password";
+"Error" = "Error";
+"Registration" = "Register";
+"Close" = "Close";
+"Succesful alert" = "You have successfully registered";
+"Error alert" = "Registration failed";

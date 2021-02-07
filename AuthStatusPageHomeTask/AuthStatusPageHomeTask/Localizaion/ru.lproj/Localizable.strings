@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  AuthStatusPageHomeTask
+
+  Created by Artur on 07.02.2021.
+  
+*/
+
+"Greeting message" = "Приветствую, уважаемый ";
+"Default user" = "пользователь!";
+"PlaceholderUsername" = "Введите ваш логин";
+"PlaceholderPassword" = "Введите ваш пароль";
+"Error" = "Ошибка";
+"Registration" = "Регистрация";
+"Close" = "Закрыть";
+"Succesful alert" = "Вы успешно зарегистрировались";
+"Error alert" = "Регистрация не удалась";
