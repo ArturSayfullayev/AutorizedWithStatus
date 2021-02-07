@@ -6,5 +6,5 @@
 //
 
 protocol ChangeColorOfBackground: class {
-    func changeColorOfBackground(with status: StatusViewController.RegisterStatus) 
+    func changeColorOfBackground(with status: StatusViewController.RegisterStatus)
 }
